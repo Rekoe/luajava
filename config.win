@@ -1,7 +1,7 @@
 #############################################################
 #Windows
 #LUA_DIR= c:\lua5.1
-LUA_DIR= c:\lua\lua\binaries\lua5.1.1
+LUA_DIR= deps\lua
 LUA_LIBDIR= $(LUA_DIR)\lib
 LUA_INCLUDES= $(LUA_DIR)\include
 JDK= $(JAVA_HOME)
