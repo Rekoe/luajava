@@ -35,10 +35,10 @@ import java.lang.reflect.Modifier;
  * 
  * @author Thiago Ponte
  */
-public final class LuaJavaAPI
+public final class DefaultLuaJavaAPI
 {
 
-  private LuaJavaAPI()
+  private DefaultLuaJavaAPI()
   {
   }
 
