@@ -24,8 +24,6 @@
 
 package org.keplerproject.luajava;
 
-import com.sun.xml.internal.bind.v2.runtime.unmarshaller.LocatorEx.Snapshot;
-
 
 /**
  * Class that contains functions accessed by lua.
